@@ -21,6 +21,18 @@ We aim to develop easy, hardware-agnostic interfaces that allow non-expert users
 
 ## DSC Storage Inspection
 
+<table>
+<tr>
+    <td>
+            <img src="/Images/dry_casks.jpg" alt="DSC Example Site" width=25% >
+    </td>
+    <td>
+            Some sample text
+    </td>
+</tr>
+</table>
+
+
 ![DSC Example Site](/Images/dry_casks.jpg)
 
 This is some text.
