@@ -21,6 +21,40 @@ We aim to develop easy, hardware-agnostic interfaces that allow non-expert users
 
 ## DSC Storage Inspection
 
+![DSC Example Site](https://images/dry_casks.jpg)
 
+This is some text.
 
+You can learn more at [this page](https://utnuclearrobotics.github.io/NRG-Research-Page/supportpage.html)
+
+## The next research item
+
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
 
