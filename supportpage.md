@@ -1,6 +1,6 @@
 ---
 title: "NRG Research Page"
-permalink: /
+permalink: /supportingpage
 layout: default
 ---
 
