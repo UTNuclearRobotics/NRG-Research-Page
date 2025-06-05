@@ -5,10 +5,9 @@ layout: default
 ---
 
 
-# Make a Website with Only Markdown
+# Our Group
 
-Learn how to use Markdown on GitHub to make a nice-looking website without
-the use of a special editor or command line tools.
+The [Nuclear & Applied Robotics Group](https://robotics.me.utexas.edu) is an interdisciplinary research group whose goal is to develop and deploy remote systems in hazardous/challenging environments to minimize the risks undertaken by human personnel. 'Interdisciplinary' refers not just to the many facets of modern robotics (mechanical, electrical, controls, etc.) but developers also gather the necessary knowledge of the domains where they will be deployed (nuclear, energy, military, etc.).
 
 If you're new to Markdown, take a look at
 [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
