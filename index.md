@@ -21,7 +21,7 @@ We aim to develop easy, hardware-agnostic interfaces that allow non-expert users
 
 ## DSC Storage Inspection
 
-![DSC Example Site](https://images/dry_casks.jpg)
+![DSC Example Site](/images/dry_casks.jpg)
 
 This is some text.
 
