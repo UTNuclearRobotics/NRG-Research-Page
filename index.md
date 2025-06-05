@@ -9,6 +9,11 @@ layout: default
 
 The [Nuclear & Applied Robotics Group](https://robotics.me.utexas.edu) is an interdisciplinary research group whose goal is to develop and deploy remote systems in hazardous/challenging environments to minimize the risks undertaken by human personnel. 'Interdisciplinary' refers not just to the many facets of modern robotics (mechanical, electrical, controls, etc.) but developers also gather the necessary knowledge of the domains where they will be deployed (nuclear, energy, military, etc.).
 
+# Our Mission
+
+We want to reduce the exposure of human operators to hazards while minimizing the overall costs (training, execution, time, and money) associated with the use of remote systems, and do so in a way that increases the number of engineering scientists in the world who can develop these systems at UT and beyond.
+
+
 If you're new to Markdown, take a look at
 [GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
 
