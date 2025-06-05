@@ -1,6 +1,6 @@
 ---
 title: "NRG Research Page"
-permalink: /supportpage
+permalink: /DSC_Inspection
 layout: default
 ---
 
